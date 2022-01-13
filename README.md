@@ -1,2 +1,3 @@
 # cgvbang
-CGV ACCOUNT CREATOR
+CGV ACCOUNT CREATOR;
+running? php run.php
